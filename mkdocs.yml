@@ -2,3 +2,7 @@ site_name: My site
 site_url: https://anzeameol.github.io/test_mkdocs
 theme:
   name: material
+
+plugins:
+  - search
+  - blog
